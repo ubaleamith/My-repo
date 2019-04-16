@@ -1,0 +1,54 @@
+{
+  "activitys": [
+    {
+      "id": "FORKID01",
+      "name": "Chandrakanth",
+      "actInfo" :"Manage the whole organization "
+    },
+    {
+      "id": "FORKID02",
+      "name": "Chandrabanu",
+      "actInfo" :"Co-ordinate with the team and time players "
+    },
+    {
+      "id": "FORKID03",
+      "name": "Dikshit",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "FORKID04",
+      "name":"Amit",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "FORKID05",
+      "name":"Mallikarjun",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "FORKID06",
+      "name":"Gajendra",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "FORKID07",
+      "name":"Shrihari",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "FORKID08",
+      "name":"Sahu",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "FORKID09",
+      "name":"Sahu",
+        "actInfo" :"Developing the application mobile and web application"
+    },
+    {
+      "id": "F010",
+      "name":"Ravikumar",
+        "actInfo" :"Developing the application mobile and web application"
+    }
+  ]
+}
