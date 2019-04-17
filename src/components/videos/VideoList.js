@@ -26,7 +26,9 @@ render()
      })
   }
   return(
-<div>hii</div>
+<div>
+<h1>Video Details List</h1>
+</div>
   );
 }
 }
