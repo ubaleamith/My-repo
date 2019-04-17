@@ -1,3 +1,10 @@
+## Project Description
+Log in credencials with firebase
+signup from and store details in firebase
+upload video form
+list of videos form
+logout from application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
